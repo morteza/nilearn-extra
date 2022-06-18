@@ -1,5 +1,8 @@
 # nilearn-extra
-Extra drop-in functionalities for [Nilearn](https://nilearn.github.io/) (Statistics for NeuroImaging in Python).
+
+**Nilearn Extra** is a small drop-in extension for *[Nilearn](https://nilearn.github.io/) (Statistics for NeuroImaging in Python)*. Currently, it provides some additional functional connectivity measures.
+
+
 
 ## Installation
 
