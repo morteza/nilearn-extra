@@ -3,6 +3,14 @@ name = "nilearn-extra"
 version = "0.1.0"
 description = "Drop-in extra functionalities for nilearn (statistics for neuroimaging in Python)"
 authors = ["Morteza Ansarinia <ansarinia@me.com>"]
+readme = "README.md"
+homepage = "https://github.com/morteza/nilearn-extra"
+repository = "https://github.com/morteza/nilearn-extra"
+keywords = ["neuroimaging", "nilearn", "machine learning"]
+classifiers = [
+    "Operating System :: OS Independent",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+]
 license = "BSD 3-Clause"
 
 [tool.poetry.dependencies]
@@ -11,7 +19,9 @@ nilearn = "^0.9.1"
 scipy = "^1.8"
 
 [tool.poetry.dev-dependencies]
+pytest = "^5.2"
 flake8 = "^4.0.1"
+ipykernel = "^6"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
