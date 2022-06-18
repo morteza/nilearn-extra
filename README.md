@@ -19,7 +19,7 @@ pip install nilearn-extra
 
 Nilearn Extra supports two additional connectivity matrices:
 - Chatterjee XiCorr (`kind="chatterjee"`) is a new correlation coefficient as described in [Chatterjee (2019)](https://arxiv.org/abs/1909.10140).
-- Transfer Entropy (`kind="transfer entropy"`) between regions X and Y is amount of uncertainty reduced in Y by knowing the past values of X. Note that transfer entropy is a asymmetric measure, so is the connectivity matrix.
+- Transfer Entropy (`kind="transfer entropy"`) between regions X and Y is amount of uncertainty reduced in Y by knowing the past values of X. Transfer entropy is an asymmetric measure, so is the connectivity matrix.
 
 # Optional dependencies
 
