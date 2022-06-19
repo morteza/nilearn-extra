@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "nilearn-extra"
-version = "0.1.0"
+version = "0.1.1"
 description = "Drop-in extra functionalities for nilearn (statistics for neuroimaging in Python)"
 authors = ["Morteza Ansarinia <ansarinia@me.com>"]
 readme = "README.md"
