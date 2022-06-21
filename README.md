@@ -32,6 +32,11 @@ pip install pyinform
 
 We use GitHub to fork and manage pull requests.
 
+## Acknowledgements
+This project is supported by the Luxembourg National Research Fund (ATTRACT/2016/ID/11242114/DIGILEARN and INTER Mobility/2017-2/ID/11765868/ULALA).
+
+
+
 ## License
 
 BSD 3-Clause License. See the [LICENSE](LICENSE) file.
