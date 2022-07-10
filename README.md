@@ -2,6 +2,8 @@
 
 **Nilearn Extra** is a small add-on for *[Nilearn](https://nilearn.github.io/) (Statistics for NeuroImaging in Python)*. It currently adds some functional connectivity measures to the mix.
 
+**The package is a work-in-progress**. There are bugs, and example notebooks are missing. If you want to use this package, expect to make changes.
+
 ## Installation
 
 ```bash
